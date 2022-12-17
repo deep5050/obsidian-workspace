@@ -1,0 +1,33 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "📖",
+      "🖋",
+      "📓",
+      "📭",
+      "🧻"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    }
+  },
+  "my lab": "🖥",
+  "notebook": "📓",
+  "windows": "🪟",
+  "tools": "🧰",
+  "linux": "🐧",
+  "cool-websites": "🌐",
+  "Attachments": "📭",
+  "Kanbans": "🧻",
+  "Excalidraw": "🖋",
+  "Other": "✏"
+}

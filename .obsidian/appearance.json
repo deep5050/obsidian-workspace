@@ -1,0 +1,21 @@
+{
+  "accentColor": "#f41576",
+  "theme": "moonstone",
+  "interfaceFontFamily": "Candara,Century Gothic",
+  "textFontFamily": "Comic Sans MS,Century,Century Gothic",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "stylish-blockquotes",
+    "media-grid-snippet",
+    "block-quote-inline",
+    "tagpill",
+    "custom-folder-files-tree",
+    "notion-colo-blocks",
+    "notion-color-blocks",
+    "checkbox",
+    "comand-pallete",
+    "pretty-highlight"
+  ],
+  "baseFontSize": 15,
+  "translucency": false
+}

@@ -1,0 +1,15 @@
+{
+  "defaultViewMode": "source",
+  "spellcheck": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  },
+  "promptDelete": false,
+  "attachmentFolderPath": "Attachments",
+  "vimMode": false,
+  "newLinkFormat": "relative"
+}
